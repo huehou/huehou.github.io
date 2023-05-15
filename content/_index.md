@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.3
+title: Summa Physica
 enableToc: false
 ---
 
