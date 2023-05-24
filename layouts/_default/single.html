@@ -10,7 +10,7 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       {{if in .Params.tags "book"}}<h6>by .Params.author</h6>{{end}}
-      {{if in .Params.tags "paper"}}<h6>Reference: .Params.reference</h6>{{end}
+      {{if in .Params.tags "paper"}}<h6>Reference: .Params.reference</h6>{{end}}
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
