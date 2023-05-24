@@ -9,8 +9,8 @@
     {{partial "header.html" .}}
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
-      {{if in .Params.tags "book"}}<p style="color:#bd93f9;font-variant:small-caps">by {{ .Params.author }}</p>{{end}}
-      {{if in .Params.tags "paper"}}<p style="color:#bd93f9;font-variant:small-caps">Reference: {{ .Params.reference }}</p>{{end}}
+      {{if in .Params.tags "book"}}<p style="color:#bd93f9;font-variant:small-caps;margin: 0 0 1em 0;">by {{ .Params.author }}</p>{{end}}
+      {{if in .Params.tags "paper"}}<p style="color:#bd93f9;font-variant:small-caps;margin: 0 0 1em 0;">Reference: {{ .Params.reference }}</p>{{end}}
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
