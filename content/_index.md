@@ -9,5 +9,6 @@ This is a website where I store my notes while exploring and studying physics, w
 - Physics
 	- [Classical Mechanics](/tags/CM)
 	- [Electromagnetism](/tags/EM)
+	- [Quantum Computation](/tags/QC)
 - Mathematics
 	- [Vector Algebra](/tags/VectorAlgebra)
