@@ -12,3 +12,5 @@ This is a website where I store my notes while exploring and studying physics, w
 	- [Quantum Computation](./notes/QC)
 - Mathematics
 	- [Vector Algebra](./notes/VectorAlgebra)
+- Research
+	- [DFT](./notes/DFT)
