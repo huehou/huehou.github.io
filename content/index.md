@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Summa Physica
+enableToc: "false"
 ---
+# About
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a website where I store my notes while exploring and studying physics, with the necessary mathematics. I am also going to store some of my thoughts in [blog](/blog). Currently, there are notes on 
+- Physics
+	-  [Classical Mechanics](./notes/CM)
+	- [Electromagnetism](./notes/EM)
+	- [Statistical Mechanics](./notes/SM)
+	- [Quantum Computation](./notes/QC)
+- Mathematics
+	- [Vector Algebra](./notes/VectorAlgebra)

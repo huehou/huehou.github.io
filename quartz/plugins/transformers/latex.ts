@@ -16,7 +16,12 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html" }]]
+        return [[rehypeKatex, { output: "html",
+			macros: {
+				  "\\vb": "\\mathbf{#1}",
+				  "\\dd": "\\mathrm{d}",
+			},
+		}]]
       } else {
         return [rehypeMathjax]
       }

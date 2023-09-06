@@ -103,5 +103,6 @@
     "prettier": "^3.0.0",
     "tsx": "^3.12.7",
     "typescript": "^5.0.4"
-  }
+  },
+  "live": "nodemon server.js"
 }
