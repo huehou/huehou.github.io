@@ -1,8 +1,7 @@
 ---
 enableToc: "false"
+title: About
 ---
-# About
-
 This is a website where I store my notes while exploring and studying physics, with the necessary mathematics. I am also going to store some of my thoughts in [blog](/blog). Currently, there are notes on 
 - Physics
 	-  [Classical Mechanics](./notes/CM)
