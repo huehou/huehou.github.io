@@ -1,5 +1,4 @@
 ---
-title: Summa Physica
 enableToc: "false"
 ---
 # About
