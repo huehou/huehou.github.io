@@ -1,6 +1,6 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-function ArticleTitle({ fileData }: QuartzComponentProps) {
+function ArticleTitle({ fileData, displayClass }: QuartzComponentProps) {
   const title = fileData.frontmatter?.title
   const author = fileData.frontmatter?.author
   const reference = fileData.frontmatter?.reference
