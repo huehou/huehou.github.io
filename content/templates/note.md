@@ -1,6 +1,7 @@
 ---
 title: "{{title}}"
 tags:
-- 
-date: {{date}}
+  - Note
+date:
+  "{ date }":
 ---

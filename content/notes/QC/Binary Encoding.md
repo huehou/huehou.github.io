@@ -1,7 +1,8 @@
 ---
-title: "Binary Encoding"
+title: Binary Encoding
 tags:
-- QC
+  - QC
+  - Note
 date: 2023-05-24
 ---
 Binary values $\vb{x}$ can be encoded into a [[qubit]] bit by bit 

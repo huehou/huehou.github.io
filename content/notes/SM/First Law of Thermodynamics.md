@@ -1,7 +1,8 @@
 ---
-title: "First Law of Thermodynamics"
+title: First Law of Thermodynamics
 tags:
-- SM
+  - SM
+  - Note
 date: 2023-08-11
 ---
 

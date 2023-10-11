@@ -7,4 +7,4 @@ date: 2023-10-11
 > [!info] 
 > This note is prepared for the students of PC3232 Nuclear Physics
 
-![[content/raw/GluonStates.pdf]]
+![[../raw/GluonStates.pdf|GluonStates]]
