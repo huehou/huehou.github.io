@@ -10,4 +10,4 @@ date: 2023-10-11
 ![[../raw/GluonStates.pdf|GluonStates]]
 
 > [!note] 
-> Link for mobile: [Gluon States](https://huehou.github.io/raw/GluonStates.pdf)
+> Link for mobile: <a href="https://huehou.github.io/raw/GluonStates.pdf" target="_blank"> Gluon State</a>
