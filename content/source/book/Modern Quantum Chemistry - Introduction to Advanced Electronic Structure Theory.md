@@ -5,8 +5,6 @@ tags:
 date: 2023-10-09
 author: Attila Szabo and Neil S. Ostlund
 ---
-###### by {{author}}
-
 ## Full Notes
 ### 3 The Hartree–Fock Approximation
 - Quantities derivable from the HF approximation
