@@ -3,7 +3,7 @@ enableToc: "false"
 title: About
 ---
 ## Introduction
-Welcome to Summa Physica. It is a space where I store my notes for my research, physics, and mathematics. If you want to see some of my thoughts, check out [Blog](./Blog). Thus far, Summa Physica contains notes for the following categories
+Welcome to Summa Physica. It is a space to store my notes for my research, physics, and mathematics. If you want to see some of my thoughts, check out [Blog](./Blog). Thus far, Summa Physica contains notes for the following categories
 - Physics
 	- [Quantum Computation](./Notes/Quantum-Computation)
 	- [Statistical Mechanics](./Notes/Statistical-Mechanics)
