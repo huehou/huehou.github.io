@@ -1,8 +1,8 @@
 ---
-title: Why do the 8 gluon states look like this?
+title: What is Noether's Theorem?
 tags:
   - blog
-date: 2023-10-11
+date: 2023-10-22
 ---
 > [!info] 
 > 
@@ -10,7 +10,7 @@ date: 2023-10-11
 > 
 > To access the file from mobile, long press the link below the PDF and open a new tab 
 
-![[../raw/GluonStates.pdf|GluonStates]]
+![[../raw/NoethersTheorem.pdf|NoethersTheorem]]
 
 > [!note]
-> Link for mobile: [[../raw/GluonStates.pdf|Gluon States]] 
+> Link for mobile: [[../raw/NoethersTheorem.pdf|Noether's Theorem]] 
