@@ -2,6 +2,7 @@
 title: Fixed Point Arithmetic
 tags:
   - Note
+  - "#QC"
 date: 2023-11-27
 ---
 Real numbers can be represented by $c_1$ binary numbers $a$ for the integer part, $c_2$ binary numbers $b$ for the fractional part, and 1 binary number $s$ for the sign of the real number by

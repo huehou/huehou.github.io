@@ -20,6 +20,8 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
 			macros: {
 				  "\\vb": "\\mathbf{#1}",
 				  "\\dd": "\\mathrm{d}",
+				  "\\pqty": "{\\left(#1\\right)}",
+				  "\\bqty": "{\\left[#1\\right]}",
 			},
 		}]]
       } else {
