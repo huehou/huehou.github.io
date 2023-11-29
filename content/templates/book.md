@@ -5,7 +5,7 @@ tags:
 date: {{date}}
 author: ""
 ---
-# {{title}}
-###### by 
-
+> [!info]- Reference
+> **Author:** <br>
+> **Title:** 
 
