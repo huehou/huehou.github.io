@@ -25,6 +25,7 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
 				  "\\order": "\\mathcal{O}\\pqty{#1}",
 				  "\\norm": "\\left\\|{#1}\\right\\|",
 				  "\\ds": "\\displaystyle",
+				  "\\qand": "\\quad\\mathrm{and}\\quad",
 			},
 		}]]
       } else {
