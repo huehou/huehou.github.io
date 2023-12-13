@@ -17,7 +17,6 @@ Email: jhhue@nus.edu.sg
 I develop methods in density functional theory (DFT). In particular, I am interested in developing orbital-free DFT, looking to extend the method to momentum space or to include the effects of magnetic field. I also apply these methods to atomtronics.
 
 ## Outreach and Teaching
-I also enjoy teaching and outreach:
 - 2023, Guest lecture for PC3232 Nuclear Physics
 - 2022, Guest lecture for QT5201V Complementarity and Wave–Particle Duality
 - 2017–2023, QCamp helper and lecturer
