@@ -5,8 +5,11 @@ title: About
 ## Introduction
 Welcome to Summa Physica. It is a space to store my notes for my research, physics, and mathematics. If you want to see some of my thoughts, check out [Blog](./Blog). Thus far, Summa Physica contains notes for the following categories
 - Physics
-	- [Quantum Computation](./Notes/Quantum-Computation)
+	- [Quantum Mechanics](./Notes/Quantum-Mechanics)
 	- [Statistical Mechanics](./Notes/Statistical-Mechanics)
+	- [Quantum Computation](./Notes/Quantum-Computation)
+- Research
+	- [Density Functional Theory](./Notes/DFT)
 
 ## About me
 I am Alexander. I am a research fellow from the Centre for Quantum Technologies (CQT).
