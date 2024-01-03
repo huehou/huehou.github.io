@@ -16,4 +16,6 @@ reference: J. Allcock, J. Bao. J. F. Doriguello, A. Luongo, M. Santha. arXiv:230
 > **Link:** [arXiv](https://arxiv.org/pdf/2308.08539.pdf)
 
 ## Full Notes
-- Definition of [[../../Notes/Quantum Computation/Quantum Processing Unit|Quantum Processing Unit]] 
+- Definition of [[../../Notes/Quantum Computation/Quantum Random Access Memory|Quantum Random Access Memory]]
+- Definition of [[../../Notes/Quantum Computation/Quantum Random Access Gate|Quantum Random Access Gate]]
+- Definition of [[../../Notes/Quantum Computation/Quantum Processing Unit|Quantum Processing Unit]]  
