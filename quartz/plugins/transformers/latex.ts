@@ -1,6 +1,6 @@
 import remarkMath from "remark-math"
 import rehypeKatex from "rehype-katex"
-import rehypeMathjax from "rehype-mathjax/svg.js"
+import rehypeMathjax from "rehype-mathjax/svg"
 import { QuartzTransformerPlugin } from "../types"
 
 interface Options {
@@ -16,27 +16,7 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html",
-			macros: {
-				  "\\vb": "\\mathbf{#1}",
-				  "\\dd": "\\mathrm{d}",
-				  "\\pqty": "{\\left(#1\\right)}",
-				  "\\bqty": "{\\left[#1\\right]}",
-				  "\\order": "\\mathcal{O}\\pqty{#1}",
-				  "\\norm": "\\left\\|{#1}\\right\\|",
-				  "\\ds": "\\displaystyle",
-				  "\\qand": "\\quad\\mathrm{and}\\quad",
-				  "\\pmatrix": "\\begin{pmatrix}#1\\end{pmatrix}",
-				  "\\Ham": "\\mathcal{H}",
-				  "\\I": "\\mathrm{i}",
-				  "\\rewop": "_{\\mathrm{#1}}",
-				  "\\power": "^{\\mathrm{#1}}",
-				  "\\qq": "\\quad\\text{#1}\\quad",
-				  "\\Exp": "\\mathrm{e}^{#1}",
-				  "\\pdv": "\\frac{\\partial{#1}}{\\partial{#2}}",
-				  "\\INT": "\\int\\limits_{#1}^{#2}",
-			},
-		}]]
+        return [[rehypeKatex, { output: "html" }]]
       } else {
         return [rehypeMathjax]
       }
