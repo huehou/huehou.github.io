@@ -1,0 +1,27 @@
+
+\require{physics}
+
+\newcommand{\Ham}{\mathcal{H}}
+\newcommand{\Exp}[1]{\mathrm{e}^{#1}}
+\newcommand{\I}{\mathrm{i}}
+\newcommand{\E}{\mathrm{e}}
+\newcommand{\rewop}[1]{_{\mathrm{#1}}}
+\newcommand{\power}[1]{^{\mathrm{#1}}}
+\newcommand{\um}{\mathbf{1}}
+\newcommand{\Dyad}[1]{\underline{\underline{#1}}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\entry}[1]{\cite{#1} \bibentry{#1}}
+\newcommand{\INT}[2]{\int\limits_{#1}^{#2}} 
+\newcommand{\BesselJ}[2]{\mathrm{J}_{#1} {\pqty{#2}}}
+\newcommand{\sgn}{\mathrm{sgn}}
+\newcommand{\HermiteH}[2]{\mathrm{H}_{#1} {\pqty{#2}}}
+
+
+\require{tikz}
+\require{curves}
+\newcommand{\Int}[1][-5pt]{\int\limits_{\begin{picture}(16,3)(-8,-3)%
+		%\put(-8,-3){\dashbox{1}(16,3){\ }}%
+		\put(0,0){\curve(-3,0,-8,0)\curve(3,0,8,0)}%
+		\put(8,0){\curve(0,0,-1.5,1.5)\curve(0,0,-1.5,-1.5)}%
+		\put(0,0){\arc(-3,0){180}}\put(0,0){\makebox(0,0){$\cdot$}}%
+		\end{picture}}\hspace*{#1}}
