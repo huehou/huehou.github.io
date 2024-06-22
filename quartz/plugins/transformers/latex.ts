@@ -27,6 +27,14 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
 				  "\\ds": "\\displaystyle",
 				  "\\qand": "\\quad\\mathrm{and}\\quad",
 				  "\\pmatrix": "\\begin{pmatrix}#1\\end{pmatrix}",
+				  "\\Ham": "\\mathcal{H}",
+				  "\\I": "\\mathrm{i}",
+				  "\\rewop": "_{\\mathrm{#1}}",
+				  "\\power": "^{\\mathrm{#1}}",
+				  "\\qq": "\\quad\\text{#1}\\quad",
+				  "\\Exp": "\\mathrm{e}^{#1}",
+				  "\\pdv": "\\frac{\\partial{#1}}{\\partial{#2}}",
+				  "\\INT": "\\int\\limits_{#1}^{#2}",
 			},
 		}]]
       } else {
