@@ -52,17 +52,73 @@ author: Steven Pinker
 	- She invokes the personal feelings and personal imagery in her description, making the illusion of oppression more visual through the imagery thus invoked
 	- She also turned familiar words into concrete descriptions that makes it different and fresh
 - Common techniques across the 4 passages
-	- An insistence on fresh wording and concrete imagery over familiar verbiage and abstract summary
-	- An attention to the readers' vantage point and the target of their gaze
-	- The judicious placement of an uncommon word or idiom against a backgrop of simple nouns and verbs
-	- The use of parallel syntax 
-	- The occasional planned surprise
-	- The presentation of a telling detail that obviates an explicit pronouncement
-	- The use of meter and sound that resonate with the meaning and mood
+	- 💬 An insistence on fresh wording and concrete imagery over familiar verbiage and abstract summary
+	- 💬 An attention to the readers' vantage point and the target of their gaze
+	- 💬 The judicious placement of an uncommon word or idiom against a backdrop of simple nouns and verbs
+	- 💬 The use of parallel syntax 
+	- 💬 The occasional planned surprise
+	- 💬 The presentation of a telling detail that obviates an explicit pronouncement
+	- 💬 The use of meter and sound that resonate with the meaning and mood
+	- Write as if you have something important to show
 ### Ch 2 A Window Onto The World
 #### Classic Style as an Antidote for Academes, Bureaucratese, Corporatese, Legalese, Officialese, and Other Kinds of Stuffy Prose
 - Speaking is more natural than writing, so one should make effort to learn how to write well
 	- In writing, we should simulate a conversation in our mind, albeit one that the audience cannot interact with the speaker
 	- The generic writing should emulate the classic style
 		- 📚 Clear and Simple as the Truth by Francis-Noel Thomas and Mark Turner 
-	- 
+- The classic style
+	- The guiding principle is showing the readers what the writer has seen
+	- The main aim is the presentation of disinterested truth, through simple and clear language
+	- Do not use writing to sort out your thought as you write 
+	- Do not argue for the truth, just present it 
+		- Recognise that your reader is competent 
+	- The writer and the reader are on equal footing, the writer needs only to direct the reader's gaze in the form of a conversation  
+		- To show something means that it must be concrete 
+		- In the form of a conversation means that it should be cooperative 
+- The practical style
+	- It is created to guide, with writers and readers having a defined role, not being equals
+	- The main aim is to get information as quick as possible 
+- The classic style is written only to show the truth, without the pressure of length or time constraints 
+- The plain style
+	- A style where everything is in full view, and there is nothing to show
+	- This contrasts with classic style in that the classic style tries to show something to the reader from a designed vantage point, even if the reader needs some effort to understand it 
+- Usually, writings are a blend of different styles, although classic is an ideal that can help cure obtuse writings 
+- The classic style can treat abstract ideas, although the ideas are explained using something concrete
+	- The concrete examples need not be metaphors and similes, but an actual instance of the phenomena which the readers can see with their own eyes 
+- The classic style assumes the readers and the writer to be equals
+	- It is very easy to make a piece of writing abstruse
+	- It takes effort to write simply and clearly 
+	- The classic style does not insist that the writer is always right 
+	- The classic style hides the philosophical difficulties of understanding abstract concepts for the sake of clarity 
+- The classic style pretends that the thoughts are fully formed before writing 
+- Metadiscourse is talking about the structure of the writing rather than go to the point
+	- A preview paragraph only helps the writer, but not the reader, because the terminologies are not known yet at the time 
+- Signposting tells the reader what is going to come or what was being said previously
+	- This is not necessary and it disrupts the flow; just say what you want
+	- Try to use a reader's expectations and the logical sequence of the paragraph to guide the reader
+	- It is not that we should not use signposting at all, but use it with a specific purpose
+- The classic style uses signpost and metadiscourse sparingly 
+	- Open a topic without metadiscourse by asking a question 
+	- Treat the content like a happening in the world that can be seen together with the reader
+	- While a summary should repeat previous keywords, it should for a self-contained whole that is not just an amalgamation of previous sentences
+- Do not confuse the subject matter with the general condition of the field 
+	- Sentence constructions like "In recent years more people are interested in..." are not good
+	- Look and discuss the subject matter directly without worrying about what other academics are doing 
+	- Do not whine about how difficult something is; the reader is more interested in what the writer will do about it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
