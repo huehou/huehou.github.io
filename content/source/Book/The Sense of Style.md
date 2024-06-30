@@ -105,6 +105,44 @@ author: Steven Pinker
 	- Sentence constructions like "In recent years more people are interested in..." are not good
 	- Look and discuss the subject matter directly without worrying about what other academics are doing 
 	- Do not whine about how difficult something is; the reader is more interested in what the writer will do about it 
+- Do not abuse shudder quotes; say what you mean
+	- 💬 If you're not comfortable using an expression without apologetic quotation marks, you probably shouldn't be using it at all.
+- Do not use excessive hedging; be sure about what you want to say
+	- The writer can count on the reader's common sense to interpret the unhedged sentences 
+	- If you want to hedge, be precise by saying what the constraints are
+	- Intensifiers can also dilute the certainty of the message by introducing a relative degree to the adjective; so, avoid it 
+- Avoid cliche
+	- If you have to use cliche, change the imagery or try to make physical sense of the sayings 
+	- Use fresh analogies or similes to bring new imagery
+- In classic style, we talk about abstract things through the use of concrete imageries
+	- Minimise abstractions that cannot be seen by the eye
+	- Minimise metaconcepts, which are concepts about concepts
+	- Reduce nominalisation, which is to change verbs into nouns or adjectives
+- Avoid excessive use of the passive voice
+	- We can use "we" in our sentences; this helps simulate a conversation in the classic style 
+	- Use direct verb to be clearer
+- Nominalisations and passive voice can still be used
+	- Nominalisations is useful to connect the current sentence with the one before, to create coherence
+	- Passive voice allows the writer to direct the reader's eyes 
+		- The active and the passive voice differs by the spotlight on the characters
+		- The active focuses on the actor, the passive focuses on the receiver
+	- The use of terms should be aimed at staging the scene for the reader
+### Ch 3 The  Curse of Knowledge
+#### The main cause of incomprehensible prose is the difficulty of imagining what it's like for someone else not to know something that you know
+- While people could use bad writing to obscure that they are incompetent, good people can also write badly because they assume everyone to know the same things as they do, failing to clarify jargons and terminologies 
+	- This is termed the curse of knowledge, and comes in many forms 
+- As a start, we can keep the reader in mind while writing
+	- Be aware of jargons, abbreviations, and technical terms 
+	- Technical vocabularies are necessary, but choose words that are simpler and layman if possible
+	- Avoid single-use abbreviations, and define all abbreviations at least once in your writing 
+	- Add some explanations to even the common technical terms, and add examples generously to clarify the meaning 
+	- Choose technical terms that are easy for the reader to understand and remember 
+- We build up knowledge through a series of abstraction, that eventually became second nature to us
+	- Since our brain can hold between 3 to 9 individual items at a time, our brain save memory by gathering chunks in the memory, so that each chunk only takes one slot in the memory
+	- Abstractions exist in chunks in our brain, so that we link the concepts from concrete ones to abstract ones; because of chunking, we forgot that not everyone understands the abstraction as we do 
+	- It is always better to underestimate than to overestimate your reader, since we tend to overestimate how much others know
+	- Do not be condescending when explaining terms; assume that your reader is intelligent, but they happen to not know what you know 
+- 
 
 
 
