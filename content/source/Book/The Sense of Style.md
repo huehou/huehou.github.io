@@ -142,7 +142,150 @@ author: Steven Pinker
 	- Abstractions exist in chunks in our brain, so that we link the concepts from concrete ones to abstract ones; because of chunking, we forgot that not everyone understands the abstraction as we do 
 	- It is always better to underestimate than to overestimate your reader, since we tend to overestimate how much others know
 	- Do not be condescending when explaining terms; assume that your reader is intelligent, but they happen to not know what you know 
-- 
+- As we become more familiar with something, we tend to think of it as its function rather than what it physically is 
+	- 🧠 This is called functional fixity or functional fixedness
+	- Functional fixity + chunking + curse of knowledge make us likely to write confusing prose 
+	- Try to write in a way that is concrete and with visual interpretation
+	- By being an expert and thinking about the problem many times, we may not realise the abstraction of our thoughts through chunking and functional fixity
+- To tackle this problem, show your writing to someone who is similar to your target audience and ask for feedback
+	- Often, anyone would do 
+	- You do not need to implement every suggestion
+	- You can read through your own draft after some time has passed 
+- You will never get the right passage on your first go
+	- You may need to revise your writing multiple times, going through it sentence by sentence
+	- Writing a bad passage first frees up cognitive resources to focus on presentation and grammar
+	- This book is not really about writing, but about revising
+	- Try your best to think about how the readers think and feel
+### Ch 4 The Web, The Tree, And The String
+#### Understanding syntax can help a writer avoid ungrammatical, convoluted, and misleading prose
+- We need to know grammar to write good sentences
+	- The tacit knowledge of grammar does not allow us to analyse our sentences critically 
+- The web of ideas in your brain
+	- You communicate these ideas through words in the right order, whose structural rule is called a syntax 
+- The connection between words to form a phrase is represented by a tree, which is just a notation used in this book
+	- The tree encodes information while showing a sequence of mental events at the same time 
+- Grammatical categories
+	- Nouns
+	- Verbs
+	- Prepositions
+	- Adjectives
+	- Adverbs
+	- Articles and other determinatives
+	- Coordinators
+		- and, or, nor, but, yet, so
+	- Subordinators
+		- that, whether, if, to
+- Grammatical functions
+	- Head
+		- Determines the phrase's core meaning
+	- Object
+		- The recipient of an action
+	- Subject
+		- The initiator of an action 
+		- All verbs have a subject
+	- Oblique object
+		- The object of a preposition
+	- Modifiers
+		- Add comments on an action or a thing
+	- Determiner
+		- It determines possession or quantity
+- Grammatical categories, grammatical functions, and semantic categories are all different concepts 
+	- Semantic categories refer to how the word is manifested in the real world 
+	- Understanding grammatical categories can help differentiate them from functions and meanings, which will make the writing more clear 
+- A tree structure can help design a sentence
+	- Grammatical rules are defined over trees, not strings
+	- Be careful of subject–verb agreement when we insert an extra phrase or a relative phrase into a sentence
+		- This agreement is an example of government, when the words are picky about its complements 
+	- Verbs and adjectives have government rules too
+		- 📝make plans instead of do plans; do research instead of make research; identical to and coincide with have different prepositions
+		- This is easy to miss when the phrases are separated or rearranged 
+	- Look carefully at each branch of a coordination 
+		- A coordination is a phrase composed of many phrases; each phrases should function independently on their own, joined by coordinators (conjunctions in the old sense), in a parallel way
+	- Take care of the cases in your sentence
+		- Who is for nominative, whom is for accusative 
+- The tree structure is there to draw your attention to sentence structure; you do not need to draw or imagine a tree structure explicitly 
+- The reader needs to understand the word and the tree structure at the same time to parse a sentence
+	- Therefore, omit needless words to reduce the mental workload of readers
+	- 💬 Brevity is the soul of wit, and of many other virtues in writing 
+	- Convert zombie nouns into direct actions
+	- Cut out metaconcepts and metadiscourse 
+	- Redundant words can be retained if
+		- it helps point the reader to the right direction
+		- it fulfils a certain rhythm in the writing 
+- We can write long sentences with unnecessary words by focusing on its geometry 
+	- Try to write flat branches so that the reader do not have to memorise the tree for a long time, and the sentence is easier to follow
+	- Put the most complicated ideas at the end of the sentence 
+	- A modifier phrase can be moved to beginning of a sentence
+		- To qualify a sentence
+		- To tie in with something that was mentioned before 
+		- Avoid monotony 
+	- Try to make these phrases short 
+	- Left-branching structure is generally not recommended 
+		- One common left-branching method is through noun piles, when a noun is seasoned with too many modifiers or long phrases 
+	- Centre-embedded sentences are the worst
+		- This happens when we recur many phrases in the middle of a sentence
+- Bad sentences happen because writers write in the same sequence as the materials come into the mind, which is not the best sequence to present to the reader
+	- Read the sentence aloud to detect this kind of sentences
+- Lexical ambiguity
+	- A word has two meanings, which causes ambiguity
+- Syntactic ambiguity
+	- A sentence with multiple interpretations in terms of the tree structure, which causes ambiguity
+	- Sometimes a sentence may be misleading by its construction; this is called a garden path
+		- 📝 I convinced her children are noisy; Fat people eat accumulates; Have the students who failed the exam take the supplementary 
+		- Garden paths causes backtracks, which makes it tedious for the reader
+- Ways to attack garden paths
+	- Prosody
+		- Garden paths are avoided in speech by emphasis, rhythm, and delivery
+		- After some time, when you read through the sentence without familiarity, you may discover garden paths 
+	- Punctuation
+		- Use punctuation or italics or capitalisation to indicate the emphasis
+		- Do not use a comma to separate a subject from its predicate, or a verb from its complements
+	- Words that signal syntactic structure
+		- Words like "that," "which," and "who"
+		- The definite article "the" is useful to signal the beginning of a noun phrase 
+		- These words also give the reader some breathing space
+		- Modifying nouns with prepositional phrases help reduce the left-branching structure
+	- Frequent strings and senses
+		- Some words occur frequently as pairs, so when they were placed next to each other by coincidence, each being a part of different phrases, this will cause confusion
+		- If a word has multiple meanings and senses, the reader will gravitate towards the more frequent meaning, which may cause confusion if we use it in the rarer sense
+	- Structural parallelism
+		- Write your sentences in parallel structure
+		- Needlessly varying the composition of your sentences for variation sake will confuse your reader 
+		- Try to write sentences with parallel syntax and consistent terminology
+	- Attachment to the phrase next door
+		- Reader tends to associate phrases with the closest term, so do not put the relevant phrases too far away from the intended term
+		- Pull unrelated but mutually attracted phrases apart
+	- Save the heaviest for last
+		- Put difficult or long phrases in the end 
+	- Topic, then comment. Given, then new
+		- This provides coherence to your writing 
+- Passive sentences are useful because
+	- The agent of the action can go unmentioned
+	- The order of things being introduced to the reader can be controlled 
+		- The doer that is heavy can be mentioned later in the sentence
+		- The done-to can be mentioned earlier 
+		- 💬 The passive voice is just one of the gadgets that the English language makes available to rearrange phrases while preserving their semantic roles
+- Other techniques to change sentence orders
+	- Preposing
+		- Shifts phrases to the left to avoid confusion
+	- Postposing
+		- Shifts a phrase to the right if it is too heavy or new
+	- Prepositional dative
+		- Shifts a phrase to the right if it is too heavy or new
+	- Existential
+		- Shifts a phrase to the right if it is too heavy or new
+	- Extraposed clause
+		- Shifts a phrase to the right if it is too heavy or new
+	- Cleft
+		- Put the new information to the front of the sentence
+	- Pseudo-cleft
+		- Retain the given-to-new structure but the given information is new
+	- Use different choices of verb
+		- Some verbs have counterparts that flip the subject-object order
+		- 📝 give vs. receive 
+### Ch 5 Arcs of Coherence
+#### How to ensure that readers will grasp the topic, get the point, keep track of the players, and see how one idea follows from another
+-  
 
 
 
