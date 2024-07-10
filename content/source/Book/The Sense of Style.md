@@ -285,7 +285,33 @@ author: Steven Pinker
 		- 📝 give vs. receive 
 ### Ch 5 Arcs of Coherence
 #### How to ensure that readers will grasp the topic, get the point, keep track of the players, and see how one idea follows from another
--  
+-  Readers want coherent passages, a sequence of sentences that have a clear connection from one to the next
+	- Coherent passages can help clarify and make difficult sentences easier to understand by providing the context
+- A passage follows a tree-like structure
+	- The main difference of the tree structure between a passage and a sentence is that there is no syntactic restriction to the order of a passage, while there is a strict order for a sentence
+	- Excessive signposting is not ideal; instead, try to order your passages with some logical order so that the reader can anticipate what comes next
+- There are many ways to order information
+	- From global to local scale
+	- From big to small
+	- By history
+	- By a character's journey
+	- By simulating a debate
+- A paragraph break is there to help the reader to pause, acting as a bookmark 
+	- Paragraph breaks should correspond to branches in the tree structure, regardless of the size
+	- Whenever the paragraph becomes too large, cut it smaller
+	- In general, if the sentence does not follow directly from the previous sentence, put it into a different paragraph
+	- Inexperienced writers tend to use too few paragraphs
+- The tree structure is not necessary, but the overall structure has to be intentional
+- The connection between passages do not follow a tree structure, but rather a connected web that can tangle, or arcs of wires 
+	- Lay out your topic to the reader early on
+	- Lay out your point near the beginning 
+	- To help readers to keep track of the topic, make the focus of the paragraph the subject of the sentence, preferably a concrete actor doing something 
+		- Put the prepositional phrase, or do preposing, to put the setting or the background at the start of the sentence
+		- Construct an arc of coherence in a paragraph, which form topic strings
+- Help readers keep track of the entities discussed by using appropriate identifiers
+	- Use indefinite articles for new entities, but definite articles for old entities
+	- Be mindful of using pronouns for entities introduced a few sentences ago, for it may cause confusion as to which entity you are referring 
+	- It is not necessary to forcefully change the description of the same entity each sentence; keep them consistent
 
 
 
