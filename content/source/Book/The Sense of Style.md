@@ -348,8 +348,33 @@ author: Steven Pinker
 	- Do not overuse connectives, since it will become tedious and may be condescending 
 		- The number of connectives depends on the expertise of the reader
 		- Writers usually use too few connectives
-		- Use only one connectors for one connection
-
+		- Use only one connectors for one connection 
+	- Coherence leads to good thinking, because it shows a logical connections between arguments
+- Coherence also depends on impression
+- Contributors to coherence
+	- Clear and plausible negation
+		- Negation requires extra effort from the reader
+		- Avoid putting too many negations in a sentence
+		- It is easier for the reader to negate something plausible
+		- Put your negation directly next to the word you are trying to negate, be mindful of the scope of negation, give readers context about what you are negating
+	- A sense of proportion
+		- The amount of words for a particular topic should be proportionate to how central it is to the argument 
+		- If the counterargument is taking too much space, it is better to divide and conquer: discuss about the counterargument in a separate section, then explain why it is not right
+	- Thematic consistency
+		- Refer to themes in a consistent way, so that the reader can connect the same themes in different sections
+		- 💬 Like other designed objects, [a coherent text] comes about not by accident but by drafting a blueprint, attending to details, and maintaining a sense of harmony and balance.
+### Ch 6 Telling Right From Wrong
+#### How to make sense of the  rules of correct grammar, word choice, and punctuation
+- Language evolves, so there is no one absolute standard for grammar and word rules
+	- The correctness is determined by conventions of the people 
+	- Many arbitrary language rules may be historical, when people try to make speech closer to Latin and Greek,  the official formal language at the tiem
+	- Etymological fallacy: when people insist that the only definition for a word is its original definition
+		- This is not right, because words evolve in meaning 
+- Reasons to follow grammatical rules
+	- Instil confidence in the readers
+	- The passage becomes consistent, so that it is easier to read
+- When in doubt, consult a dictionary or usage guide 
+- 
 
 
 
