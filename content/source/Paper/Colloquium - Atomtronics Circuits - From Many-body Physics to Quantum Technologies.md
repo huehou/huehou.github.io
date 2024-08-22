@@ -90,3 +90,8 @@ reference: L. Amico, D. Anderson, M. Boshier, J.-P. Brantut, L.-C. Kwek, A. Ming
 - Bose-gas continuous theory $$ \ds \Ham\rewop{BG} = \int {\pqty{\dd{\vb{r}}}} {\bqty{{\pqty{\pdv{\Psi^\dagger}{\vb{r}}}} {\pqty{\pdv{\Psi}{\vb{r}}}} + c \Psi^\dagger \Psi^\dagger \Psi \Psi }} $$ where $c = U / t \Delta$. 
 	- In first quantisation, this reduces to the Lieb–Liniger model
 - Libb–Liniger model $$ \ds \Ham\rewop{LL} = \sum_{j=1}^{N_p} \frac{\hbar^2}{2m} {\pqty{-\I \pdv{}{x_j} - \frac{\Phi}{2 \pi N_S} }}^2 + g  \sum_{1 \leq j < k < N_p} \delta {\pqty{x_j - x_k}} \,, $$ where $\Phi$ is 
+- This is a test 
+  $$
+  y = mx + c
+  $$
+  <p style="margin-left:40px;">This continues</p>
