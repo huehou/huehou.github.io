@@ -27,3 +27,4 @@ where $A$ and $B$ are local operations. If $\rho$ is a PPT state, then $\rho_{\m
 > Therefore, local operations preserve the PPT property
 
 
+Is this working?
