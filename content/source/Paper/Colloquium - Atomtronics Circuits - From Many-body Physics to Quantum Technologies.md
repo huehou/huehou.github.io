@@ -94,4 +94,4 @@ reference: L. Amico, D. Anderson, M. Boshier, J.-P. Brantut, L.-C. Kwek, A. Ming
   $$
   y = mx + c
   $$
-  <p style="margin-left:40px;">This continues</p>
+  <p style="margin-left:30px;">This continues. Adding a sentence to make it build.</p>
