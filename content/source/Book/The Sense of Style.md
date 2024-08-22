@@ -312,7 +312,69 @@ author: Steven Pinker
 	- Use indefinite articles for new entities, but definite articles for old entities
 	- Be mindful of using pronouns for entities introduced a few sentences ago, for it may cause confusion as to which entity you are referring 
 	- It is not necessary to forcefully change the description of the same entity each sentence; keep them consistent
-
+		- Psychologically, if different words are used, the reader expects them to be different characters or concepts
+		- Do not change the wording especially when you are comparing or contrasting two things
+	- To avoid using the same word in close succession, we can use a pronoun
+		- If a pronoun does not work, use a more generic noun when it is mentioned the second time that acts like a pronoun
+		- The second word should easily call the first to mind
+		- Nominalisations are useful as pseudo-pronouns, when we are referring to the concept a second time 
+- Be mindful of the logical relationship between sentences
+	- Resemblance relations
+		- Sentences have overlaps with the previous sentence
+		- Usually used to compare similarity or contrast
+		- Parallel syntax is the way to go
+		- "And" suggests similarity, "while" suggests temporal order, "although" suggests contrast
+		- Elaboration
+			- Exemplification: general statements followed by examples
+			- Generalisation: examples followed by a general statement
+			- Exception
+				- Generalisation first or exception first
+	- Contiguity in time or place
+		- Before-and-after sequence in time or in space
+			- Before first
+			- After first
+		- It is easier for readers to mention early before late, although given before new is the more important rule
+	- Cause or Effect
+		- Relation
+			- Result: cause followed by effect
+			- Explanation: effect followed by cause
+			- Violated expectation: preventer followed by effect
+			- Failed prevention: effect followed by preventer
+	- Attribution
+		- To describe someone believes something 
+	- Anticipation of readers' reaction
+- The same coherence requirements can be applied to connections between paragraphs 
+	- The writer should ensure that the reader can reconstruct the coherence relations in the mind 
+	- Do not overuse connectives, since it will become tedious and may be condescending 
+		- The number of connectives depends on the expertise of the reader
+		- Writers usually use too few connectives
+		- Use only one connectors for one connection 
+	- Coherence leads to good thinking, because it shows a logical connections between arguments
+- Coherence also depends on impression
+- Contributors to coherence
+	- Clear and plausible negation
+		- Negation requires extra effort from the reader
+		- Avoid putting too many negations in a sentence
+		- It is easier for the reader to negate something plausible
+		- Put your negation directly next to the word you are trying to negate, be mindful of the scope of negation, give readers context about what you are negating
+	- A sense of proportion
+		- The amount of words for a particular topic should be proportionate to how central it is to the argument 
+		- If the counterargument is taking too much space, it is better to divide and conquer: discuss about the counterargument in a separate section, then explain why it is not right
+	- Thematic consistency
+		- Refer to themes in a consistent way, so that the reader can connect the same themes in different sections
+		- 💬 Like other designed objects, [a coherent text] comes about not by accident but by drafting a blueprint, attending to details, and maintaining a sense of harmony and balance.
+### Ch 6 Telling Right From Wrong
+#### How to make sense of the  rules of correct grammar, word choice, and punctuation
+- Language evolves, so there is no one absolute standard for grammar and word rules
+	- The correctness is determined by conventions of the people 
+	- Many arbitrary language rules may be historical, when people try to make speech closer to Latin and Greek,  the official formal language at the tiem
+	- Etymological fallacy: when people insist that the only definition for a word is its original definition
+		- This is not right, because words evolve in meaning 
+- Reasons to follow grammatical rules
+	- Instil confidence in the readers
+	- The passage becomes consistent, so that it is easier to read
+- When in doubt, consult a dictionary or usage guide 
+- 
 
 
 

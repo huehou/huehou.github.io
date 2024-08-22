@@ -19,7 +19,7 @@ reference: Michał Horodecki, Paweł Horodecki, and Ryszard Horodecki, Phys. Rev
 - Definition of [[Distillation]] 
 	- Distillation generates singlet states that can be used for quantum information
 - 🔎 Literature results
-	- Any separable 2-qubit state is distillable
+	- Any inseparable 2-qubit state is distillable
 - 🎯 Main results
 	- There are inseparable states that are undistillable 
 - Definition of [[../../Notes/Quantum Mechanics/Partial Transpose|Partial Transpose]] 
