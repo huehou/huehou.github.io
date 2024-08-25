@@ -40,8 +40,12 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\qq": "\\quad\\text{#1}\\quad",
 				  "\\Exp": "\\mathrm{e}^{#1}",
 				  "\\pdv": "\\frac{\\partial{#1}}{\\partial{#2}}",
+				  "\\dv": "\\frac{\\dd{#1}}{\\dd{#2}}",
 				  "\\INT": "\\int\\limits_{#1}^{#2}",
 				  "\\tr": "\\mathrm{tr}",
+				  "\\utilde": "\\underset{\\sim}{#1}",
+				  "\\um": "1\\!\\rm l",
+				  "\\Aboxed": "\\,\\mathllap{\\mathrel{\\boxed{\\phantom{#1}}}}"
 			},
 		}]]
       } else {
