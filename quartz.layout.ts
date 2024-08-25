@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
 		folderClickBehavior: "collapse",
 		filterFn: (node) => {
 		// set containing names of everything you want to filter out
-		const omit = new Set(["private", "source", "templates"])
+		const omit = new Set(["private", "source", "templates", "raw"])
 		return !omit.has(node.name.toLowerCase())
   },
 	})),
