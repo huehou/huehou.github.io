@@ -45,7 +45,14 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\tr": "\\mathrm{tr}",
 				  "\\utilde": "\\underset{\\sim}{#1}",
 				  "\\um": "1\\!\\rm l",
-				  "\\Aboxed": "\\,\\mathllap{\\mathrel{\\boxed{\\phantom{#1}}}}"
+				  "\\Aboxed": "\\,\\mathllap{\\mathrel{\\boxed{\\phantom{#1}}}}",
+				  "\\abs": "\\left\|#1\\right\|",
+				  "\\expval": "\\left\\langle #1 \\right \\rangle",
+				  "\\qfor": "\\qq{for}",
+				  "\\sinc": "\\operatorname{sinc}",
+				  "\\eval": "\\left.{#1}\\right|",
+				  "\\FF": "\\mathcal{F}",
+				  "\\sgn": "\\operatorname{sgn}"
 			},
 		}]]
       } else {
