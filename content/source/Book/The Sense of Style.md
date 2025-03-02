@@ -2,7 +2,7 @@
 title: The Sense of Style
 tags:
   - book
-date: 2024-05-28
+date: 2025-03-02
 author: Steven Pinker
 ---
 > [!info]- Reference
@@ -374,7 +374,231 @@ author: Steven Pinker
 	- Instil confidence in the readers
 	- The passage becomes consistent, so that it is easier to read
 - When in doubt, consult a dictionary or usage guide 
-- 
+- There is no rule that prohibit splitting infinitives; if it helps with clarity, use it 
+- A rule should be blown off if it has no basis, accepted by careful writers, and it does not help increase the sentence's clarity 
+- Grammar is not formality
+	- While a mismatch in formality and the context is an error, it is not under the problem of grammar
+##### Grammar
+- Adjectives and adverbs
+	- Many adverbs are flat adverbs, which means the adverb has the same form as its adjective form 
+	- Adjectives can complement verbs, so long as it modifies a noun and not a verb
+		- We must distinguish a grammatical category from its grammatical function
+- Ain't
+	- While it is not accepted in standard writing, it has its place in lyrics and poems for its monosyllabic rhythm, or used to illicit a sense that something is so obvious that even the simplest of people can understand it 
+- And, because, but, or , so, also 
+	- It is perfectly fine to start a sentence with conjunctions, or coordinators
+- Between you and I 
+	- We should say "between you and me" instead
+	- The error comes from the hypercorrection of "Me and someone" as the subject of a sentence
+	- Coordination does not have a head, so the grammar can sometimes be unambiguous; the resolution is often follow the grammar case of the closest noun 
+- Can versus May
+	- It is often interchangeable, but "may" is more preferred when asking for permission
+- Dangling modifiers
+	- 🧠Dangling participles mean the participle modifier phrase has a subject that differs from the main clause
+	- The participle modifier phrase should have a subject that agrees with the main clause to avoid confusion, although they are not grammatical errors themselves 
+	- Often, we can allow danglers if the implied subject of the modifier is the writer, and when the subject of the main clause is a dummy like "it" or "there"
+	- For formal writing, try to avoid it, since that is the impression of informality 
+- Fused participles (possessives with gerunds)
+	- In formal setting, we prefer to use the possessive, while in informal setting, we can choose to use the accusative case
+		- 📝I approve of Sheila's taking the job vs. I approve of Sheila taking the job 
+- If-then
+	- Open conditional: referring to situation that is uncertain, and the reader can make inferences or predictions 
+		- Any tenses can work 
+	- Remote conditional: referring to situation that is highly unlikely, although its implications are worth exploring 
+		- The if-clause must have a past-tense verb, the then-clause must have "would" or similar words 
+			- Past tense can be used to mean factual remoteness
+		- If the if-clause refers to the actual past, then we use the pluperfect tense (verbs with "had")
+- Like, as, such as 
+	- "As" is more formal than "like" when doing comparison, and they need not follow by a noun phrase
+	- "Such as" is more formal than "like" when introducing examples
+- Possessive antecedents
+	- It is okay to have pronouns refer to the possessive term in the subject, so long as it does not cause confusion
+- Preposition at the end of a sentence
+	- It is okay to end a sentence with preposition, instead of putting it earlier through the action of "pied-piping"
+	- We can use pied-piping to sound more formal; otherwise, we just place the preposition by selecting the construction that puts heavy stuff at the back 
+- Predicative nominative
+	- Either is fine, although putting nominative as the complement of "be" is more formal, while putting accusative is more informal
+		- 📝It is I vs. It is me 
+- Sequence of tenses and other perspective shifts
+	- In a sentence, it is generally good to keep the same tense, person, voice, or type of discourse 
+	- In indirect discourse, we should use the past tense, because it refers to a backshifted event in a sequence of tenses
+		- Past tense does not always mean past time 
+		- We can violate backshifting (using present tense for part of the sentence) if the subject being discussed is a truth meant to hold for all time 
+		- We backshift a past tense to the pluperfect tense, although it is not obligatory 
+- Shall and Will
+	- Some parts of England would say that 
+		- For first person, shall refers to a future event, while will refers to determination or permission
+		- For third person, shall refers to determination or permission, while will refers to a future event 
+	- There is no such rule
+- Split infinitives
+	- There is no rule that says one cannot split infinitives or split verbs 
+	- Sometimes it is more appropriate to put an adverb directly before the verb that it is modifying 
+	- We should unsplit the infinitives when the adverb is long and heavy, so that the heavy information is at the end of the sentence 
+- Subjunctive mood and irrealis were
+	- Subjunctive mood is an old tense that is still in use, although often in old cliches passed down from earlier times, where you use the base form for the verb
+		- 📝So be it; Suffice to say; COme what may 
+	- Subjunctive also shows up in hypothetical statements, which makes it sounds more formal
+	- Irrealis refers to factual remoteness even from the past tense
+		- Use were instead of other past tense noun to show the remoteness; with were, it often implies that the writer does not believe that it is true
+- Than and As
+	- It is more formal to use nominative after "than" and "as," more informal to use accusative 
+	- While it is more common to use "different from," it is generally acceptable to use "different than" 
+- That and Which
+	- We use "which" for non-restrictive relative clauses, but can use either for restrictive relative clauses, although "that" is safer in general 
+- Verbing and other neologisms
+	- 🧠Neologism refers to the creation of a new word
+	- Many reject neologisms, especially when turning nouns into verbs, but we need to introduce new words to include more advanced and abstract concepts when knowledge expands in general 
+- Who and Whom
+	- We use "whom" for accusative (him), "who" for nominative (he), although nowadays "whom" sounds formal to the point of being pompous 
+##### Quantity, Quality, and Degree
+- Absolute and graded qualities (very unique)
+	- Absolute adjectives should not have graded qualities like very, although that depends on the resolution and granularity of the quality we are describing, which may allow gradation in its description 
+- Singulars and plurals (none is vs. none are)
+	- "None" is preferably singular, except when a subset of a larger set is carved out, then you use plural
+	- "Any" and "no" depends on the quantity of the word it is modifying
+	- "Neither," "either," "anyone," "everyone," "everybody," and "nothing" are singular
+	- When two words are linked by "and," they are usually plural, except when the phrase is treated as a singular in special cases (like Macaroni and Cheese) 
+	- "With" and "plus" are prepositions, so they do not change the word into plural; it merely describes or qualifies the main subject 
+	- "Or" follows the quantity closest to the verb
+	- "Of" phrases follow the sense of the word being quantified 
+	- "one of those who" should be followed by plural, because "who" quantifies "those," although the singular case can be used when the main emphasis is on "one"
+- Duals and plurals (between/among and other distinctions between two and more than two)
+	- "Among" must be used for three or more objects; "between" is often used for two objects, but can be used for more objects if the sentence considers only two entities at a time
+	- Often, "each other" is used for twosomes while "one another" is used for more than two, but they are interchangeable
+	- "Alternatives" can refer to more than 2 possibilities 
+	- "Either" is used for twosomes when used as a noun or a determiner; "Any" is used for more than two. "Either" can be used for more than two when it is in "either... or..." construction
+	- Often, we use comparatives ("stronger") when comparing 2 things, superlatives ("strongest") when comparing more than 2 things; however, we can use superlatives for 2 things when we are referring to a superiority in a larger comparison group, not just between the 2 entities being considered 
+- Things and Stuff (count nouns, mass nouns, and ten items or less)
+	- Count nouns treat things as discrete, while mass nouns treat things as continuous 
+	- In general, we use "more" and "fewer" for count nouns, "much" and "less" for mass nouns 
+	- "Less" can be used for count nouns if it refers to a singular count noun, a continuous extent for the count noun as a unit of measure, or when it is used to compare to a standard
+	- In general, we use "more than" for count nouns, "over" for a point on a scale of measurement, although interchanging them is not a grammatical error 
+- Masculine and feminine (nonsexist language and singular they)
+	- It is presently more acceptable to use singular "they" as a gender-neutral singular pronoun, although it makes the sentence sounds informal
+		- Singular "they" has existed long before the feminist movement
+	- In formal settings, then we should change the sentence structure to avoid the issue
+		- Make the subject plural 
+		- Hide the pronoun, relying on the reader to fill in the gap 
+		- Use "he or she" 
+##### Diction 
+- "Aggravate" can mean both "make worse" and "annoy" 
+- "Anticipate" can mean both "deal with in advance" and "expect" 
+- "Anxious" can mean both "worried" and "eager"
+- "Comprise" can mean "contain" in active form, "compose or make up" in passive form 
+- "Convince" usually means "cause to believe," though sometimes "cause to act" 
+- "Crescendo" can mean "gradual increase" or "climax"  
+- "Critique" is often a noun, though seldom a verb to imply analysis rather than censure 
+- "Decimate" can mean "destroy a tenth" or "destroy most" 
+- "Due to" is a preposition 
+- "Frankenstein" originally referred to the scientist, but now more often to the monster 
+- "Graduate" is commonly used as intransitive word rather than transitive and passive
+- "Healthy" has replaced "healthful" in meaning "conducive to good health" (e.g., a healthy drink)
+- "Hopefully" can be used both for a verb phrase adverb and a sentence adverb
+- "Intrigue" can be used as a verb to mean "to interest" 
+- "Livid" can mean "angry"
+- "Loan" can be a noun or a verb
+- "Masterful" can mean "expert" in addition to "domineering"
+- "Momentarily" can mean either "for a moment" or "in a moment"
+- "Nauseous" can mean either "nauseating" or "nauseated," with "nauseated" being the dominant meaning now 
+- "Presently" can mean "soon" or "now," though "soon" is more prevalent 
+- "Quote" is less accepted as noun in formal writing; use "quotation" 
+- "Raise" can mean "nurture a farm animal" or nurture a child"
+- "Transpire" can mean "become known" or "happen," with "happen" being the dominant meaning, although it may sound pretentious 
+- "While" can mean "at the same time" or "whereas," It is usually clear which sense is used in context, but rewrite the sentence if it causes confusion 
+- "Whose" can mean "of a person" or "of an entity" 
+- Do not use "adverse" to mean "averse or disinclined"; use it to mean "detrimental"
+- Do not use "appraise" to mean "apprise or inform"; use it to mean "ascertain the value" 
+- "As far as the money is concerned," but "As for the money."
+- "Beg the question" means "assume what it should be proving," not "raise the question"
+- Do not use "bemused" to mean "amused"; use it to mean "bewildered" 
+- "Cliché" is a noun, "clichéd" is an adjective
+- Do not use "credible" to mean "credulous or gullible"; use it to mean "believable" 
+- "Criteria" is plural, not singular; the singular of "criteria" is "criterion" 
+- Do not use "data" as a mass noun; use it as a plural countable noun
+- Do not use "depreciate" to mean "deprecate or disparage"; use it to mean "decrease in value" 
+- Do not use "dichotomy" to mean "difference or discrepancy"; use it to mean "two mutually exclusive alternatives" 
+- Do not use "disinterested" to mean "uninterested"; use it to mean "unbiased"
+- "Enervate" means "sap or weaken," not "energise" 
+- "Enormity" means "extreme evil," not "enormousness" 
+- "Flaunt" means "show off," not "flout" 
+- "Flounder" means "flop around ineffectually," not "sink to the bottom or founder"
+- "Fortuitous" means "coincidental or unplanned," not "fortunate" 
+- "Fulsome" means "excessively and insincerely complimentary," not "full or copious"
+- "Homogeneous" is spelled like this, not "homogenous" 
+- "Hone" means "sharpen," not "converge upon" 
+- "Hot button" means "an emotional, divisive controversy," not "hot topic" 
+- "Hung" means "suspended," "hanged" means "suspended from the neck until dead" 
+- "Intern" means "detain or imprison," "inter" means "bury" 
+- "Ironic" means "uncannily incongruent," not "inconvenience or unfortunate"
+- "Irregardless" is not a word, use "regardless" or "irrespective" 
+- Do not use "literally" to mean "figuratively" 
+- "Luxuriant" means "abundant or florid," not "luxurious"  
+- "Meretricious" means "offensively insincere," not "meritorious" 
+- "Mitigate" means "alleviate," not "provide reasons for" 
+- "New Age" means "spiritualistic or holistic," not "modern or futuristic"
+- "Noisome" means "smelly," not "noisy"
+- "Nonplussed" means "stunned or bewildered," not "bored or unimpressed" 
+- "Opportunism" means "seizing or exploiting opportunities," not "creating or promoting opportunities" 
+- "Parameter" means "a variable," not "a limit"
+- "Phenomena" is the plural form of "phenomenon" 
+- "Politically correct" means "dogmatically left-liberal," not "fashionable or trendy" 
+- "Practicable" means "easily put into practice," not "practical" 
+- "Proscribe" means "condemn or forbid," not "prescribe or recommend"
+- "Protagonist" means "actor or active character," not "proponent"
+- "Refute" means "prove to be false," not "allege to be false" 
+- "Reticent" means "shy or restrained," not "reluctant" 
+- The past tense of "shrink" is "shrank," its past participle is "shrunk" 
+- "Simplistic" means "naively or overly simple," not "simple or pleasingly simple"
+- "Staunch" means "loyal or sturdy," not "stop a flow or stanch" 
+- "Tortuous" means "twisting," not "torturous"
+- "Unexceptionable" means "not worthy of objection," not "unexceptional or ordinary" 
+- "Untenable" means "indefensible or unsustainable," not "painful or unbearable" 
+- "Urban legend" means "an intriguing and widely circulated but false story," not "someone who is legendary in a city" 
+- "Effect" means an influence or to implement; "affect" means to influence or to fake 
+- "To lie" meaning "to recline" has the tenses "lie-lay-lain," "To lay" meaning to set down has the tenses "lay, laid, laid"; "To lie" meaning "to fib" has the tenses "lie-lied-lied"
+##### Punctuation 
+- Commas and other connectors (colons, semicolons, and dashes)
+	- We use commas for non-restrictive relative clauses
+	- We use commas to represent nonessential qualities, although we can omit them if there are too many commas in a sentence, and that it does not cause confusion
+	- Places that do not need a comma
+		- Between the subject and a predicate
+		- Between the verb and its complement
+		- Between a noun for an idea and a clause spelling out its content
+		- Between a noun and an integrated relative clause
+		- Between a subordinator and its clause
+		- Within a coordination of two phrases
+		- Between a definite generic noun and the name identifying its reference 
+		- To connect two complete sentences
+	- Places that need a comma
+		- Surrounding a sentence adverb
+		- Between a preposed adjunct and the main clause
+		- Before a result adjunct 
+		- Before a contrast adjunct 
+		- Before a supplementary relative clause 
+		- Before a direct quotation 
+		- Surrounding a supplementary phrase in the middle of a sentence
+	- Use period when the two sentences are conceptually independent
+	- Use semicolon when the two sentences are conceptually linked but there is no need to pinpoint the coherence relation between them 
+	- Use colon when the coherence relation is elaboration or exemplification 
+	- Use dash when the second sentence intentionally interrupts the flow of the discussion 
+	- Use comma when the writer pinpoints the coherence relation with connectives, because it is a mere supplement 
+	- Use semicolon when the writer uses sentence adverbs to connect the sentences 
+	- Use Oxford comma to avoid ambiguity, use semicolon to separate entries with "and"s 
+- Apostrophes
+	- Do not use apostrophes to make nouns plural
+	- Apostrophes are used to signal contraction—it is your book, not you're book
+	- Put 's for singular noun, put s' for regular plural, use s's for common names (Charles's), use s' for names that end with -es (Jesus', Sophocles', Texas') 
+- Quotation marks
+	- Do not use quotation marks for emphasis, because they are used to signal words that do not convey their usual meaning 
+	- According  to the rules of American publications, you should put a period and a comma inside the quotation marks
+		- This is illogical, and it is more logical to put them outside; however, if you are working with an American publication, you have to follow the rule 
+- Advice on critical thinking
+	- Check your source and make sure what you say is true
+	- Make sure your arguments are sound
+		- For moral arguments, show how what you suggest would satisfy a principle or increase a good that people accept 
+	- Do not confuse anecdote or personal experience with the state of the world
+	- Beware of false dichotomies 
+	- Arguments should be based on reasons, not people 
 
 
 
