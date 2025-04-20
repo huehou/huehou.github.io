@@ -14,3 +14,10 @@ $$
 A^\dagger = A \,.
 $$
 
+## Properties
+### Connection to Symmetric Matrices
+A real Hermitian matrix is a symmetric matrix
+> [!hint]- Proof
+> Use the definition of symmetric matrix $$
+> A^T = A \,.
+> $$
