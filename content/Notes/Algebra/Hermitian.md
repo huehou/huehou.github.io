@@ -21,3 +21,12 @@ A real Hermitian matrix is a symmetric matrix
 > Use the definition of symmetric matrix $$
 > A^T = A \,.
 > $$
+
+### Real Inner Product
+If $A$ is Hermitian, then
+$$
+\bra{v} A \ket{v} \in \mathbb{R} \, \forall v \,. 
+$$
+> [!hint]- Proof
+> $$
+> \bra{v} A \ket{v}^\dagger = \bra{v} A^\dagger \ket{v} = \bra{v} A \ket{v} \,.
