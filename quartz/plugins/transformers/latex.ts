@@ -52,8 +52,8 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\sinc": "\\operatorname{sinc}",
 				  "\\eval": "\\left.{#1}\\right|",
 				  "\\FF": "\\mathcal{F}",
-				  "\\sgn": "\\operatorname{sgn}"
-				  "\\Tr": "\\operatorname{Tr}"
+				  "\\sgn": "\\operatorname{sgn}",
+				  "\\Tr": "\\operatorname{Tr}",
 			},
 		}]]
       } else {
