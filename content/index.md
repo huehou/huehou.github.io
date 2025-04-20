@@ -12,17 +12,18 @@ Welcome to Summa Physica. It is a space to store my notes for my research, physi
 	- [Density Functional Theory](./Notes/DFT)
 
 ## About me
-I am Alexander. I am a research fellow from the Centre for Quantum Technologies (CQT).
+I am Alexander. I am an Outreach Education Manager from the Centre for Quantum Technologies (CQT).
 
 Email: jhhue@nus.edu.sg
 
 ## Research Interest
-I develop methods in density functional theory (DFT). In particular, I am interested in developing orbital-free DFT, looking to extend the method to momentum space or to include the effects of magnetic field. I also apply these methods to atomtronics.
+When I was a researcher, I developed methods in density functional theory (DFT). In particular, I am interested in developing orbital-free DFT, looking to extend the method to momentum space or to include the effects of magnetic field. I also apply these methods to atomtronics.
 
 ## Outreach and Teaching
+- 2024, Tutor for PC5214 Essential Techniques in Experimental Physics
 - 2023, Guest lecture for PC3232 Nuclear Physics
 - 2022, Guest lecture for QT5201V Complementarity and Wave–Particle Duality
-- 2017–2023, QCamp helper and lecturer
+- 2017–2025, QCamp helper and lecturer
 	- History and Applications of Quantum Technologies
 	- [Youtube recording](https://www.youtube.com/watch?v=KJLqEgUSSDs) 
 - 2018–2020, Tutor for PC4241 Statistical Mechanics
