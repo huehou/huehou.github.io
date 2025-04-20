@@ -38,7 +38,7 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\rewop": "_{\\mathrm{#1}}",
 				  "\\power": "^{\\mathrm{#1}}",
 				  "\\qq": "\\quad\\text{#1}\\quad",
-				  "\\E": "\\mathrm{e}^{#1}",
+				  "\\Exp": "\\mathrm{e}^{#1}",
 				  "\\pdv": "\\frac{\\partial{#1}}{\\partial{#2}}",
 				  "\\dv": "\\frac{\\dd{#1}}{\\dd{#2}}",
 				  "\\INT": "\\int\\limits_{#1}^{#2}",
@@ -54,6 +54,7 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\FF": "\\mathcal{F}",
 				  "\\sgn": "\\operatorname{sgn}",
 				  "\\Tr": "\\operatorname{Tr}",
+				  "\\E": "\\mathrm{e}",
 			},
 		}]]
       } else {
