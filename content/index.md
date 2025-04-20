@@ -8,6 +8,9 @@ Welcome to Summa Physica. It is a space to store my notes for my research, physi
 	- [Quantum Mechanics](./Notes/Quantum-Mechanics)
 	- [Statistical Mechanics](./Notes/Statistical-Mechanics)
 	- [Quantum Computation](./Notes/Quantum-Computation)
+- Mathematics
+	- [Algebra](./Notes/Algebra)
+	- [Special Functions](./Notes/Special-Function)
 - Research
 	- [Density Functional Theory](./Notes/DFT)
 
