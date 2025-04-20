@@ -28,4 +28,4 @@ f {\pqty{\theta_1, \theta_2}} = a + b \theta_1 + c \theta_2 + d \theta_1 \theta_
 $$
 where $a$, $b$, $c$, and $d$ are real numbers. 
 > [!hint]- Proof
-> This comes directly from ![[#^29a23c]]
+> This comes directly from ![[Grassman Numbers#^29a23c|^29a23c]]

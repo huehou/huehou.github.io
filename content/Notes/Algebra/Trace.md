@@ -26,5 +26,5 @@ $$
 \Tr A = \sum_i \lambda_i \,.
 $$
 > [!hint]- Proof
-> Diagonalise $A$ using unitary matrices, and by cyclic property ![[Trace#^7524c4]] the unitary matrices will combine into a unit matrix $\um$, and we are left with just the sum of the eigenvalues. 
+> Diagonalise $A$ using unitary matrices, and by cyclic property ![[Trace#^7524c4|^7524c4]] the unitary matrices will combine into a unit matrix $\um$, and we are left with just the sum of the eigenvalues. 
 

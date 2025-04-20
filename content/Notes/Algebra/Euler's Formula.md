@@ -32,7 +32,7 @@ $$
 > $$ 
 > and find that 
 > $$
-> \dv{\theta} f {\pqty{\theta}} = \I f {\pqty{\theta}} \,.
+> \dv{}{\theta} f {\pqty{\theta}} = \I f {\pqty{\theta}} \,.
 > $$ 
 > Solve the differential equation, using $f {\pqty{0}} = 1$ to find the integration constant, then use uniqueness theorem to prove the Euler's formula.
 
