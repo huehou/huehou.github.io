@@ -9,33 +9,49 @@ $$
 \E^{\I \theta} = \cos \theta + \I \sin \theta \,.
 $$
 > [!hint]- Proof by Taylor series
-> Expand exponential using Taylor series $$
-> \E^{\I \theta} = \sum_{n=0}^{\infty} \frac{{\pqty{\I \theta}}^n}{n!} \,,
+> Expand exponential using Taylor series 
+> $$ 
+> \E^{\I \theta} = \sum_{n=0}^{\infty} \frac{{\pqty{\I \theta}}^n}{n!} \,, 
 > $$
-> and connect it with the Taylor series of the trigonometric functions $$
+> and connect it with the Taylor series of the trigonometric functions 
+> $$
 > \cos \theta = \sum_{k=0}^{\infty} \frac{{\pqty{-1}}^k}{{\pqty{2k}}!} \theta^{2k} \qand \sin \theta = \sum_{k=0}^{\infty} \frac{{\pqty{-1}}^k}{{\pqty{2k+1}}!} \theta^{2k+1} \,. 
 > $$ 
 
 > [!hint]- Proof by Differentiation
-> Define $$
+> Define 
+> $$
 > f {\pqty{\theta}} = \frac{\cos \theta + \I \sin \theta}{\E^{\I \theta}} \,,
-> $$ and observe that $f' {\pqty{\theta}} = 0$. Use $f {\pqty{0}} = 1$ to get the constant when integrating $f' {\pqty{\theta}} = 0$. 
+> $$ 
+> and observe that $f' {\pqty{\theta}} = 0$. Use $f {\pqty{0}} = 1$ to get the constant when integrating $f' {\pqty{\theta}} = 0$. 
 
 >[!hint]- Proof by Uniqueness Theorem
-> Define $$
+> Define 
+> $$
 > f {\pqty{\theta}} = \cos \theta + \I \sin \theta \,,
-> $$ and find that $$
+> $$ 
+> and find that 
+> $$
 > \dv{\theta} f {\pqty{\theta}} = \I f {\pqty{\theta}} \,.
-> $$ Solve the differential equation, using $f {\pqty{0}} = 1$ to find the integration constant, then use uniqueness theorem to prove the Euler's formula.
+> $$ 
+> Solve the differential equation, using $f {\pqty{0}} = 1$ to find the integration constant, then use uniqueness theorem to prove the Euler's formula.
 
 > [!hint]- Proof by Partial Fraction
-> Define $$
+> Define 
+> $$
 > \frac{2 \I}{x^2 + 1} = \frac{1}{x - \I} - \frac{1}{x + \I} \,.
-> $$ Integrate the equation and find $$
+> $$ 
+> Integrate the equation and find 
+> $$
 > 2 \I \tan^{-1} {\pqty{x}} + C = \ln \frac{x - \I}{x + \I} \,.
-> $$ Substitute $$
+> $$ 
+> Substitute 
+> $$
 > x = \tan \frac{y}{2}
-> $$ and solve the equation to $$
+> $$ 
+> and solve the equation to 
+> $$
 > A \E^{\I y} = - \cos y - \I \sin y \,.
-> $$ When $y = 0$, $A = -1$, and so the Euler's formula is proven. 
+> $$ 
+> When $y = 0$, $A = -1$, and so the Euler's formula is proven. 
 

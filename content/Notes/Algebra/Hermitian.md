@@ -18,7 +18,8 @@ $$
 ### Connection to Symmetric Matrices
 A real Hermitian matrix is a symmetric matrix
 > [!hint]- Proof
-> Use the definition of symmetric matrix $$
+> Use the definition of symmetric matrix 
+> $$
 > A^T = A \,.
 > $$
 
@@ -30,3 +31,4 @@ $$
 > [!hint]- Proof
 > $$
 > \bra{v} A \ket{v}^\dagger = \bra{v} A^\dagger \ket{v} = \bra{v} A \ket{v} \,.
+> $$
