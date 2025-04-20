@@ -68,12 +68,14 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\pmatrix": "\\begin{pmatrix}#1\\end{pmatrix}",
 				  "\\Ham": "\\mathcal{H}",
 				  "\\I": "\\mathrm{i}",
+				  "\\E": "\\mathrm{e}",
 				  "\\rewop": "_{\\mathrm{#1}}",
 				  "\\power": "^{\\mathrm{#1}}",
 				  "\\qq": "\\quad\\text{#1}\\quad",
 				  "\\Exp": "\\mathrm{e}^{#1}",
 				  "\\pdv": "\\frac{\\partial{#1}}{\\partial{#2}}",
 				  "\\INT": "\\int\\limits_{#1}^{#2}",
+				  "\\qif": "\\quad\\mathrm{if}\\quad",
 			},
 		}]]
       }
