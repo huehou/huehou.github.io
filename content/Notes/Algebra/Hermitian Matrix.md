@@ -1,5 +1,5 @@
 ---
-title: Hermitian
+title: Hermitian Matrix
 tags:
   - Note
   - algebra
@@ -32,3 +32,7 @@ $$
 > $$
 > \bra{v} A \ket{v}^\dagger = \bra{v} A^\dagger \ket{v} = \bra{v} A \ket{v} \,.
 > $$
+
+
+
+[^1]: Kevin Cahill (2019). Physical Mathematics (Second Edition). Cambridge University Press. Chapter 1.3, 5.
