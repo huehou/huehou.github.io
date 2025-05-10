@@ -78,6 +78,7 @@ $$
  [[Inner Product#Positive-definite Inner Product|Positive-definite Inner Product]] is a special case, where the 4th property implies this non-degenerate property.
  
  > [!hint]- Proof
+ > 
  > If $\langle f, g \rangle = 0$ for all $f$, then $\langle g, g \rangle = 0$, which implies that it is a zero vector. 
 
 
