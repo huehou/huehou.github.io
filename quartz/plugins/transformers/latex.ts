@@ -56,6 +56,7 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
 				  "\\Tr": "\\operatorname{Tr}",
 				  "\\E": "\\mathrm{e}",
 				  "\\qif": "\\qq{if}",
+				  "\\braket": "\\left\\langle #1 \\middle\| #2 \\right\\rangle",
 			},
 		}]]
       } else {

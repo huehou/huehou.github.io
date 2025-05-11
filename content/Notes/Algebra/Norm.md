@@ -1,9 +1,9 @@
 ---
-title: "Norm"
+title: Norm
 tags:
   - Note
-date:
-  "2025-05-10"
+  - algebra
+date: 2025-05-10
 ---
 ## Vector Norm
 The norm of a vector [^1] is defined through [[Inner Product|inner product]]
